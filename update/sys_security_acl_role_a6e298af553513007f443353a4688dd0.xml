@@ -3,17 +3,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-06 17:57:06</sys_created_on>
-        <sys_id>d77e6b93553513007f443353a4688d3f</sys_id>
+        <sys_created_on>2018-05-06 20:36:15</sys_created_on>
+        <sys_id>a6e298af553513007f443353a4688dd0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_loaner_reque_loaner_request.x_snc_loaner_reque.loaner_request_user</sys_name>
         <sys_package display_value="Loaner Request App" source="x_snc_loaner_reque">b8eb2bdf55f113007f443353a4688d53</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request App">b8eb2bdf55f113007f443353a4688d53</sys_scope>
-        <sys_security_acl display_value="x_snc_loaner_reque_loaner_request">df7e6b93553513007f443353a4688d3c</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_d77e6b93553513007f443353a4688d3f</sys_update_name>
+        <sys_security_acl display_value="x_snc_loaner_reque_loaner_request">22e298af553513007f443353a4688db5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a6e298af553513007f443353a4688dd0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-06 17:57:06</sys_updated_on>
+        <sys_updated_on>2018-05-06 20:36:15</sys_updated_on>
         <sys_user_role display_value="x_snc_loaner_reque.loaner_request_user" name="x_snc_loaner_reque.loaner_request_user">177e6793553513007f443353a4688d04</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
