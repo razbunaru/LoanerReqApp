@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan/>
+        <plan_id>207e18b7553913007f443353a4688d28</plan_id>
+        <snapshot>0f512cf7553913007f443353a4688d5a</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 16:17:53</sys_created_on>
+        <sys_id>ef512cf7553913007f443353a4688dbe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6f512cf7553913007f443353a4688dbc</sys_name>
+        <sys_package display_value="Loaner Request App" source="x_snc_loaner_reque">b8eb2bdf55f113007f443353a4688d53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request App">b8eb2bdf55f113007f443353a4688d53</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_ef512cf7553913007f443353a4688dbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 16:17:53</sys_updated_on>
+        <trigger display_value="">6f512cf7553913007f443353a4688dbc</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

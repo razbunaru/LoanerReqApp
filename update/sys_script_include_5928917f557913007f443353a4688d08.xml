@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_loaner_reque.LoanerUtils</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>LoanerUtils</name>
+        <script><![CDATA[var LoanerUtils = Class.create();
+LoanerUtils.prototype = {
+    initialize: function() {
+    },
+
+    type: 'LoanerUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 20:17:50</sys_created_on>
+        <sys_id>5928917f557913007f443353a4688d08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LoanerUtils</sys_name>
+        <sys_package display_value="Loaner Request App" source="x_snc_loaner_reque">b8eb2bdf55f113007f443353a4688d53</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Loaner Request App">b8eb2bdf55f113007f443353a4688d53</sys_scope>
+        <sys_update_name>sys_script_include_5928917f557913007f443353a4688d08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 20:17:50</sys_updated_on>
+    </sys_script_include>
+</record_update>
